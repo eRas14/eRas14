@@ -9,12 +9,16 @@
       </a>
 </div>
 
-###Обо мне
+### Обо мне
 - :page_facing_up: Мое резюме на площадках [HeadHunter](https://orenburg.hh.ru/applicant/resumes/view?resume=dff728ddff032ff47d0039ed1f4d574b647774)  
 - :envelope: **ibek-94@mail.ru**
 
-###Проекты
-
+### Портфолио
+-[Тестирование веб приложения Янедкс.Маршруты #1](https://github.com/eRas14/yandex-marshruts-1-sprint)
+-[Тестирование веб приложения Янедкс.Маршруты #2](https://github.com/eRas14/yandex-marsh-2sprint)
+-[Тестирование мобильного приложения Яндекс.Метро](https://github.com/eRas14/yandex-metro-mobile-app-testing-3-sprint)
+-[Тестирование API веб приложения Янедкс.Прилавка](https://github.com/eRas14/yandex_lavka_api_test)
+-[Приложение для сортировки ищображения](https://github.com/eRas14/ImageSorter)
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
