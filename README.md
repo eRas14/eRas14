@@ -9,21 +9,23 @@
       </a>
 </div>
 
-### About me 
+###Обо мне
 - :page_facing_up: Мое резюме на площадках [HeadHunter](https://orenburg.hh.ru/applicant/resumes/view?resume=dff728ddff032ff47d0039ed1f4d574b647774)  
 - :envelope: **ibek-94@mail.ru**
+
+###Проекты
 
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-### Languages 
+### Языки
 <div id="header" align='left'>
-    <img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt="Python" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
 </div>
 
-### Tools
+### Инструмены
 <div id="header" align='left'> 
     <img src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/svg/chrome-devtools-square-responsive.svg" alt="chromedevtools" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="50" height="50"/>
