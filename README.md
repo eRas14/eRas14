@@ -18,7 +18,7 @@
 
 ### Languages 
 <div id="header" align='left'>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://www.svgrepo.com/show/376344/python.svg" alt="HTML" width="50" height="50"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt="Python" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
 </div>
