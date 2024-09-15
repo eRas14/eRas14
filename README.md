@@ -20,7 +20,7 @@
 - [Тестирование веб приложения Янедкс.Маршруты #2](https://github.com/eRas14/yandex-marsh-2sprint)
 - [Тестирование мобильного приложения Яндекс.Метро](https://github.com/eRas14/yandex-metro-mobile-app-testing-3-sprint)
 - [Тестирование API веб приложения Янедкс.Прилавка](https://github.com/eRas14/yandex_lavka_api_test)
-- [Приложение для сортировки ищображения](https://github.com/eRas14/ImageSorter)
+- [Приложение для сортировки изображения](https://github.com/eRas14/ImageSorter)
 
 </div>
 
