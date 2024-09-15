@@ -10,8 +10,8 @@
 </div>
 
 ### Обо мне
-- :page_facing_up: Мое резюме на площадках [HeadHunter](https://orenburg.hh.ru/applicant/resumes/view?resume=dff728ddff032ff47d0039ed1f4d574b647774)  
-- :envelope: **ibek-94@mail.ru**
+- :page_facing_up: Мое резюме на площадках: [HeadHunter](https://orenburg.hh.ru/applicant/resumes/view?resume=dff728ddff032ff47d0039ed1f4d574b647774)  
+- :envelope: Почтовый адрес: **ibek-94@mail.ru**
 
 ### Портфолио
 <div id="header" align='left'>
