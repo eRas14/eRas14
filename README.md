@@ -31,6 +31,7 @@
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="JS" width="50" height="50"/>
 </div>
 
 ### Инструмены
