@@ -44,6 +44,7 @@
     <img src="https://upload.vectorlogo.zone/logos/jetbrains_idea/images/d4398a36-c378-4511-a508-106ded6cd69a.svg" alt="IntelliJ IDEA" width="50" height="50"/>
     <img src="https://static.merlion.ru/merliontech/images/logo_selenium.png" alt="selenium" width="50" height="50"/>
     <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" alt="IntelliJ IDEA" width="55" height="55"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="55" height="55"/>
 </div>
 
 
