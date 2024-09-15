@@ -36,11 +36,4 @@
     <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" alt="IntelliJ IDEA" width="55" height="55"/>
 </div>
 
-![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-### My stat
-<div id="stat" align='left'>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DianaRazyapova&theme=discord_old_blurple"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DianaRazyapova&theme=discord_old_blurple"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DianaRazyapova&theme=discord_old_blurple"/>
-</div>
