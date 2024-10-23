@@ -13,7 +13,7 @@
 - :page_facing_up: Мое резюме на площадках: [HeadHunter](https://orenburg.hh.ru/applicant/resumes/view?resume=dff728ddff032ff47d0039ed1f4d574b647774)  
 - :envelope: Почтовый адрес: **ibek-94@mail.ru**
 
-### Портфолио
+### Портфолио (типо)
 <div id="header" align='left'>
   
 - [Тестирование веб приложения Янедкс.Маршруты #1](https://github.com/eRas14/yandex-marshruts-1-sprint)
