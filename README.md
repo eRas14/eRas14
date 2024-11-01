@@ -21,7 +21,7 @@
 - [Тестирование мобильного приложения Яндекс.Метро](https://github.com/eRas14/yandex-metro-mobile-app-testing-3-sprint)
 - [Тестирование API веб приложения Янедкс.Прилавка](https://github.com/eRas14/yandex_lavka_api_test)
 - [Приложение для сортировки изображения](https://github.com/eRas14/ImageSorter)
-- [Автоматизация сайта saucedemo.com](https://github.com/eRas14/auto_qa_saucedemo)
+- [Автоматизация сайта saucedemo.com (Spaghetti code)](https://github.com/eRas14/auto_qa_saucedemo)
 </div>
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
